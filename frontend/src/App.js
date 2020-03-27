@@ -5,8 +5,8 @@ import Routes from "./routes";
 // JSX (JavaScript XML) //
 
 function App() {
-    // Array [valor, funçãoDeAtualização]
-    return <Routes / > ;
+  // Array [valor, funçãoDeAtualização]
+  return <Routes />;
 }
 
 export default App;
